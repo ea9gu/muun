@@ -1,0 +1,3 @@
+[submodule "fingertip_detection"]
+	path = Unified-Gesture-and-Fingertip-Detection
+	url = https://github.com/ea9gu/Unified-Gesture-and-Fingertip-Detection
